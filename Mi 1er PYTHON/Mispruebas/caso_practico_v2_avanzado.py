@@ -1,8 +1,5 @@
 class Libro:
-    """
-    Representa un libro en el sistema de gestión de la biblioteca.
-    Esta clase define los atributos y comportamientos de un libro.
-    """
+    ""Representa un libro en el sistema de gestión de la biblioteca.Esta clase define los atributos y comportamientos de un libro.""
 
     def __init__(self, titulo, autor, isbn):
         """
